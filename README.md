@@ -2,7 +2,7 @@
 
  I am a Software Engineer with experience in working as a Network Analyst 📡 . Through my experience working as Network Analyst I ambitiously worked in a collaborative setting to troubleshoot network errors ❌ and configured network devices 🖥️ . I'm passionate about developing attractive and easy to use applications for others✨. 
 
-- 📫 Get to know me or reach out to me at:<div ><br>
+- 📫 Let's connect 🙂:<div ><br>
     <a href="https://www.linkedin.com/in/razaskhalid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/Raza-Khalid"><img src="https://img.shields.io/github/followers/rkhalid?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" /></a>
     <a href="mailto: razakhalidd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
