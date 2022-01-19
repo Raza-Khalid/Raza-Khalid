@@ -1,6 +1,6 @@
 <h1 align="center"> 🌎 Hello World, I'm Raza Khlaid 🌎</h1>
 
- I am a **Software Engineer** with experience in working as a **Network Analyst** 📡 . Through my experience working as Network Analyst I ambitiously worked in a collaborative setting to troubleshoot network errors ❌ and configured network devices 🖥️ . I'm **passionate** about **developing **attractive and easy to use applications for others✨. 
+ I am a **Software Engineer** with experience in working as a **Network Analyst** 📡 . Through my experience working as Network Analyst I ambitiously worked in a collaborative setting to troubleshoot network errors ❌ and configured network devices 🖥️ . I'm **passionate** about **developing** **attractive** and easy to use applications for others✨. 
 
 - 📫 Let's connect 🙂:<div ><br>
     <a href="https://www.linkedin.com/in/razaskhalid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
