@@ -45,7 +45,7 @@
 
 <div align="center">
   <br>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raza-Khalid&hide=,issues&include_all_commits=true&count_private=true&show_icons=true&theme=red " />  </a><br>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raza-Khalid&hide=,issues&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-green" />  </a><br>
 
   
 </div>
